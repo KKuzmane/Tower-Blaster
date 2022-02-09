@@ -1,0 +1,8 @@
+E:\Tower Blaster\Tower Blaster\Tower Blaster\obj\Debug\Tower Blaster.csproj.AssemblyReference.cache
+E:\Tower Blaster\Tower Blaster\Tower Blaster\obj\Debug\Tower Blaster.csproj.SuggestedBindingRedirects.cache
+E:\Tower Blaster\Tower Blaster\Tower Blaster\obj\Debug\Tower Blaster.csproj.CoreCompileInputs.cache
+E:\Tower Blaster\Tower Blaster\Tower Blaster\bin\Debug\Tower Blaster.exe.config
+E:\Tower Blaster\Tower Blaster\Tower Blaster\bin\Debug\Tower Blaster.exe
+E:\Tower Blaster\Tower Blaster\Tower Blaster\bin\Debug\Tower Blaster.pdb
+E:\Tower Blaster\Tower Blaster\Tower Blaster\obj\Debug\Tower Blaster.exe
+E:\Tower Blaster\Tower Blaster\Tower Blaster\obj\Debug\Tower Blaster.pdb
